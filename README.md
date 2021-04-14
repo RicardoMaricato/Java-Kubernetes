@@ -22,7 +22,7 @@ Spring boot and mysql database running on docker
 
 **Clone from repository**
 ```bash
-git clone https://github.com/sandrogiacom/java-kubernetes.git
+git clone https://github.com/RicardoMaricato/Java-Kubernetes.git
 ```
 
 **Build application**
